@@ -1,0 +1,3 @@
+/**
+ * base-app javascript file
+ **/
